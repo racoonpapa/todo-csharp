@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo-csharp", "todo-csharp\todo-csharp.csproj", "{8E7E5E77-9A74-4A52-ACA1-C7C9D1FF62FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7E5E77-9A74-4A52-ACA1-C7C9D1FF62FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7E5E77-9A74-4A52-ACA1-C7C9D1FF62FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7E5E77-9A74-4A52-ACA1-C7C9D1FF62FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7E5E77-9A74-4A52-ACA1-C7C9D1FF62FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

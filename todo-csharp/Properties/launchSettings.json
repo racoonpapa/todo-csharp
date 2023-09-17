@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "todo-csharp": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Projects\\todo-csharp\\todo-csharp"
+    }
+  }
+}
